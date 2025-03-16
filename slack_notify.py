@@ -2,7 +2,7 @@ from ansible.plugins.callback import CallbackBase
 import requests
 import json
 
-SLACK_WEBHOOK_URL='https://hooks.slack.com/services/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'
+SLACK_WEBHOOK_URL='Slack-URL'
 
 class CallbackModule(CallbackBase):
 
